@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_show_leds" id="DgQq~`UuE|9?za?F+7q2" disabled="true" x="603" y="-185"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="pxt-on-start" id="UEu$SWZ%bj9nLN%Di;%," x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="+_s.C?*yRf`s8;_x|=0z"><value name="number"><shadow type="math_number" id="-/+xhb97QN;e1A@Mb1=k"><field name="NUM">69</field></shadow></value><next><block type="device_show_leds" id="j@0Hll^Yz5Cpc+UgTUuB"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="device_forever" id="10SO$0vYnB?^?_)EO7IU" x="205" y="0"/><block type="device_pause" id="tkHsCfV^?M:|pKyKnkn{" disabled="true" x="110" y="344"><value name="pause"><shadow type="timePicker" id="AA:Iri}Y1XR=fIl5DT?r" disabled="true"><field name="ms">100</field></shadow></value></block><block type="device_print_message" id=";QY~1ps]XXf^d[YsKh:{" disabled="true" x="133" y="453"><value name="text"><shadow type="text" id=".rw}!nvMLh=Zb{l#?4SZ" disabled="true"><field name="TEXT"/></shadow></value></block></xml>
